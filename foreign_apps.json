@@ -164,10 +164,6 @@
     "a_name": "Heroes War"
   },
   {
-    "p_name": "com.mobile.legends",
-    "a_name": "Mobile Legends"
-  },
-  {
     "p_name": "club.fromfactory",
     "a_name": "ClubFactory"
   },
@@ -513,7 +509,7 @@
   },
   {
     "p_name": "com.xiaomi.midrop",
-    "a_name": "ShareMe (MiDrop)"
+    "a_name": "ShareMe (MiDrop) - Transfer files without internet"
   },
   {
     "p_name": "com.alibaba.dingtalk.global",
